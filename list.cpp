@@ -11,6 +11,7 @@ int main(){
 	for(int j=0;j<5;j++)
 	{
 		cout<<"\t"<<n[j];
-}
+	}
+	cout<<"Program Terminated"<<endl;
 	return 0;
 	}
